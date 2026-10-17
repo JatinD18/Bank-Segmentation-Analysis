@@ -1,0 +1,31 @@
+customer_id,full_name,city,account_id,account_type,status,last_transaction_date,days_since_last_transaction
+5945,"Vikram Reddy",Jaipur,5945,Savings,Active,2023-10-26,1086
+980,"Vivaan Das",Bangalore,980,Current,Active,2023-10-28,1084
+1250,"Aditya Chatterjee",Chennai,1250,Current,Active,2023-11-16,1065
+777,"Krishna Mukherjee",Lucknow,777,Savings,Active,2023-12-10,1041
+3380,"Meera Bhat",Hyderabad,3380,Savings,Active,2023-12-20,1031
+9542,"Divya Gupta",Chennai,9542,Savings,Active,2023-12-20,1031
+7679,"Kavya Reddy",Kolkata,7679,Savings,Active,2023-12-22,1029
+1368,"Amit Rao",Hyderabad,20632,"Fixed Deposit",Active,2024-01-05,1015
+5655,"Meera Choudhury",Delhi,5655,Savings,Active,2024-01-09,1011
+6284,"Sneha Patel",Delhi,6284,Savings,Active,2024-01-15,1005
+881,"Arjun Mukherjee",Mumbai,16754,Current,Active,2024-01-17,1003
+7982,"Aditya Verma",Pune,21278,"Fixed Deposit",Active,2024-01-17,1003
+3441,"Meera Sharma",Chennai,20840,"Fixed Deposit",Active,2024-01-28,992
+4,"Krishna Reddy",Ahmedabad,16385,Savings,Active,2024-01-31,989
+4173,"Vikram Iyer",Chennai,4173,Savings,Active,2024-02-01,988
+1399,"Meera Pillai",Kolkata,16942,"Fixed Deposit",Active,2024-02-11,978
+4591,"Priya Bhat",Mumbai,20949,"Fixed Deposit",Active,2024-02-15,974
+2882,"Riya Choudhury",Delhi,2882,Current,Active,2024-02-16,973
+2657,"Pooja Singh",Delhi,2657,Savings,Active,2024-02-18,971
+5986,"Aarav Choudhury",Lucknow,5986,Current,Active,2024-02-23,966
+3629,"Rohan Mehta",Ahmedabad,3629,Savings,Active,2024-02-25,964
+1914,"Kavya Rao",Bangalore,1914,Savings,Active,2024-03-01,959
+3661,"Riya Das",Jaipur,17828,Current,Active,2024-03-05,955
+9492,"Aditya Kumar",Bangalore,21449,"Fixed Deposit",Active,2024-03-08,952
+3963,"Vikram Banerjee",Chennai,3963,Savings,Active,2024-03-09,951
+901,"Aditya Pillai",Delhi,901,Savings,Dormant,2024-03-18,942
+4517,"Neha Mehta",Jaipur,4517,Current,Active,2024-03-19,941
+5495,"Aarav Das",Ahmedabad,5495,Current,Active,2024-03-22,938
+2330,"Divya Bhat",Jaipur,2330,Current,Active,2024-03-30,930
+648,"Krishna Sharma",Ahmedabad,648,Savings,Active,2024-04-03,926

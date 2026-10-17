@@ -1,0 +1,51 @@
+customer_id,full_name,city,recency_days,frequency,monetary,rfm_code,customer_segment
+5291,"Amit Verma",Ahmedabad,18,30,888106.99,444,Champions
+5869,"Krishna Menon",Hyderabad,29,31,865014.96,444,Champions
+2444,"Aditya Verma",Jaipur,5,28,842720.18,444,Champions
+9670,"Karan Iyer",Chennai,12,33,831886.71,444,Champions
+860,"Krishna Pillai",Lucknow,15,31,823122.82,444,Champions
+9175,"Aarav Joshi",Bangalore,41,28,814126.37,344,Champions
+8260,"Riya Chatterjee",Pune,48,30,809198.59,344,Champions
+5367,"Vivaan Banerjee",Pune,30,25,800868.91,444,Champions
+2050,"Sneha Banerjee",Hyderabad,20,29,789131.28,444,Champions
+7279,"Sneha Verma",Ahmedabad,40,31,783867.74,344,Champions
+6647,"Vivaan Das",Ahmedabad,5,27,783442.28,444,Champions
+9132,"Divya Sharma",Kolkata,133,24,780262.64,244,"At Risk"
+2750,"Kavya Choudhury",Ahmedabad,54,28,778348.57,344,Champions
+626,"Neha Nair",Bangalore,143,22,773507.14,244,"At Risk"
+9161,"Kavya Choudhury",Bangalore,31,27,768480.16,444,Champions
+1668,"Neha Menon",Lucknow,1,32,766263.84,444,Champions
+217,"Riya Mukherjee",Lucknow,1,29,756804.69,444,Champions
+4378,"Rahul Menon",Chennai,28,29,756575.89,444,Champions
+5672,"Riya Bhat",Ahmedabad,47,29,755618.13,344,Champions
+7440,"Aditya Mukherjee",Chennai,12,35,741552.51,444,Champions
+8866,"Krishna Choudhury",Pune,44,24,740607.24,344,Champions
+7661,"Rahul Patel",Chennai,2,29,738958.74,444,Champions
+4924,"Amit Reddy",Mumbai,22,30,736204.90,444,Champions
+8541,"Aarav Gupta",Kolkata,77,26,735585.72,344,Champions
+7163,"Ananya Nair",Chennai,8,27,732263.60,444,Champions
+6143,"Pooja Mukherjee",Jaipur,53,26,729831.89,344,Champions
+1962,"Rohan Gupta",Hyderabad,81,27,725187.26,244,"At Risk"
+5539,"Amit Gupta",Lucknow,23,33,723884.98,444,Champions
+5107,"Arjun Mukherjee",Jaipur,90,26,722594.63,244,"At Risk"
+1394,"Aditya Mukherjee",Lucknow,56,27,718006.48,344,Champions
+6383,"Amit Patel",Mumbai,20,25,714133.88,444,Champions
+9288,"Karan Singh",Pune,1,28,710751.36,444,Champions
+242,"Neha Nair",Chennai,1,25,707664.20,444,Champions
+7858,"Neha Rao",Pune,42,25,707446.89,344,Champions
+6253,"Reyansh Singh",Pune,1,28,706381.87,444,Champions
+1281,"Rohan Pillai",Kolkata,21,33,701263.06,444,Champions
+1852,"Priya Verma",Delhi,54,24,698773.49,344,Champions
+1251,"Aarav Menon",Lucknow,32,25,698466.05,344,Champions
+7116,"Meera Menon",Bangalore,4,24,691612.92,444,Champions
+2269,"Meera Singh",Hyderabad,58,24,690925.07,344,Champions
+5357,"Karan Menon",Delhi,22,25,690709.06,444,Champions
+7598,"Meera Sharma",Bangalore,3,23,688644.84,444,Champions
+4707,"Vikram Choudhury",Ahmedabad,166,24,685134.24,244,"At Risk"
+3090,"Aarav Choudhury",Hyderabad,34,23,683488.67,344,Champions
+8342,"Priya Bhat",Mumbai,77,26,683302.16,344,Champions
+9500,"Amit Pillai",Chennai,30,29,682045.90,444,Champions
+3308,"Karan Singh",Chennai,24,25,681690.25,444,Champions
+2776,"Meera Sharma",Mumbai,21,26,680619.94,444,Champions
+1409,"Meera Gupta",Ahmedabad,37,26,678735.51,344,Champions
+9771,"Aarav Mehta",Jaipur,40,26,677907.27,344,Champions
