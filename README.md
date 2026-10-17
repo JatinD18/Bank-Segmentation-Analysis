@@ -176,7 +176,7 @@ Used:
 ## 📁 Repository Structure
 
 ```text
-Bank-Segmentation-Analysis-SQL-Project/
+Bank-Segmentation-Analysis/
 │
 ├── data/
 │   └── exported/
@@ -188,6 +188,7 @@ Bank-Segmentation-Analysis-SQL-Project/
 ├── sql/
 │   ├── 01_schema_setup.sql
 │   ├── 02_data_generation.sql
+│   ├── 02c_generating_transactions.sql
 │   ├── 03_business_queries.sql
 │   └── 04_rfm_segmentation.sql
 │
